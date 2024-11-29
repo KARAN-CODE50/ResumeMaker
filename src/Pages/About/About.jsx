@@ -91,12 +91,8 @@ export default function About() {
                 <title>About Us - Resume Builder</title>
                 <meta name="description" content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes." />
                 <meta name="keywords" content="resume builder, about us, mission, professional resumes, tools" />
-                <meta name="author" content="Hardik Desai" />
                 <meta name="robots" content="index, follow" />
                 <meta property="og:title" content="About Us - Resume Builder" />
-                <meta property="og:description" content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes." />
-                <meta property="og:image" content="https://avatars.githubusercontent.com/u/87645745?v=4" />
-                <meta property="og:url" content="https://quick-resume.netlify.app/about" />
                 <meta property="og:type" content="website" />
             </Helmet>
             <Flex
